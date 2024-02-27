@@ -1,0 +1,31 @@
+
+Nome: NatÆ Rodrigues Frois
+CPF: 536.754.896-38
+Data de nascimento: 14/6/1998
+Telefone: (19) 99782-5420
+CEP: 22350-230
+Rua: Joaquim T vora Barbosa
+Número: 1050
+Bairro: Jardim das Oliveiras
+Cidade: Campinas
+Estado: SP
+Email: natarodriguesfrois@gmail.com
+Data do diagnostico: 08/11/2022
+Comorbidade: SIM
+Quais comorbidade(s)? Diabetes
+
+
+Nome: Anderson Da Silva Santos
+CPF: 567.342.876-29
+Data de nascimento: 19/4/1987
+Telefone: (13) 98569-3256
+CEP: 11248-412
+Rua: JoÆo das Neves
+Número: 54
+Bairro: Canind‚
+Cidade: SÆo Bernardo
+Estado: SP
+Email: andersondasilva@gmail.com
+Data do diagnostico: 08/11/2022
+Comorbidade: NÃO
+Quais comorbidade(s)? Nenhum

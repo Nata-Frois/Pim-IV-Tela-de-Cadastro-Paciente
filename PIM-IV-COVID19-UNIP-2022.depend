@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667961002 source:c:\users\gabri\desktop\pim iv unip 2022\pim-iv-covid19-unip-2022\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
